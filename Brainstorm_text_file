@@ -14,3 +14,67 @@
 #          - Dialogue options during "gameplay"
 
 
+# [Just moving the proposal here so y'all can use it to see what Ideas we have:
+
+## What will (likely) be the title of your project?
+    The likely title of our project would be: "Border Math Verification".
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+    A visual novel game that has randomly generated math questions that the user answers under a certain time limit. The "HP" system will keep track of the amount of total points lost before the game ends.
+    The "story" element will come second after the code, it will use the math questions worded in a way to simulate checking papers at a dangerous DMZ area, similar to Paper's Please.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+    The project will use Ren' Py' for the project's visual novel element, since Ren' Py' runs on Python we can probably implement some sort of random math question generator into it. The features it will have are basic but fun for the user to interact with.
+    It will be executed by four simple principles:
+        1) A random math question generator:
+              - It should have the ability to get more difficult between the sections.
+              - It should have the ability to be formatted into any sentence structure: Ex: 
+                  "You need to verify the authenticity of the passports. 
+                  This passport has a 10-digit numerical code, and the sum of the first five digits is 27, while the sum of the last five digits is 23, what is the total sum of all the digits on the passport?"
+              [ The numbers will be replaced randomly, but the structure of the question will stand for each run of the game. ]
+              - It needs to run its own question so that the answer is given back correctly. The answer to the question above would be:
+                  "The sum of all the digits on the passport is 50. Verification complete."
+        2) A "HP" points tracker:
+            - It should have the ability to remember the user's current score and deduct the score based on incorrect answers or going over the time limit.
+            - It should be implemented with different texts for each consequence:
+                  "Attention Customs Officer. You have gone over the time limit for each person. We will transfer this individual's verification to another booth. 
+                    Your efficiency score has been deducted by 5."
+                  "Current efficiency score is 95"
+        3) Visual Novel assets:
+            - The art assets and audio elements should fit in with the overall theme of the game.
+            - It should change with every change in "cutscene".
+        4) Text system:
+            - The text system should run on some sort of Boolean method so that it displays a correct message when the player does something.
+            - It should allow the player to make choices and display an answer to that choice:
+
+                  "The old woman hands you a cheap amulet: "Please this is all I have. Can I please pass?"
+      
+                        [ Let her through ]                    [ "I am sorry" ]
+
+
+    These systems should be modifiable and flexible to any changes or additions. The "gameplay loop" should be perfected, and should be simple enough to complete but not basic enough to be boring.
+    The most important element is the question generator and the points tracker.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? Which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+    [ Not planning to combine any final projects from another course's project according to my knowledge ]
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+    
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+TODO
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+TODO
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+TODO
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+TODO
