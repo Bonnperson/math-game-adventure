@@ -59,22 +59,56 @@
     [ Not planning to combine any final projects from another course's project according to my knowledge ]
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-    
 
-## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+    Names:          Emails:                    Assigned TAs:
+    Tony Zhang      Tul64513@temple.edu
+    Reuben          
+    Subhan 
+
+
+[ Missing inputs ] 
+
+
+## In the world of software, almost everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
-
-TODO
+        Good outcome: Must have a working math questions generator. Must have a working points tracker.
+            If these aren't accomplished then we have no game.
+    
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
-
-TODO
+        Better outcome: Have enough art assets for visual elements and plan out a good story for the visual novel.
+            - Combined with the other code the visual novel should be amusing enough for a linear run.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+        Best outcome: After doing all 4 principles in an early manner we can implement additional things to the project that will make it perfect.
+            - Instead of having a linear element to the visual novel we can branch out to different options for the players and introduce additional concepts:
+                    - Boss events
+                    - "Hp" recovery events
+                    - Dialogue branches
+                    - Difficulty selection
+                    - Music? Sound effects?
+                    - Etc.
 
-TODO
+    The best outcome is if the basic backbone is finished and we can fall back on it just in case. A good outcome must be achieved beforehand. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+        The next step is to acquire the basic know-how of using Ren' Py' and Python. The topics that will need to be researched are mainly scripting.
+        The first thing we need to do is experiment with a random math question generator.
 
-TODO
+        The workload will be divided up as:
+
+        Tony -  Art + Text
+        Reuben  - Points tracker
+        Subhan  - Math questions generator
+
+        This work focus should be interchangeable; therefore, we can switch in between these roles.
+
+        The second step is to create a bunch of "Example assets" and then implement the math question generator into Ren' Py' with these assets.
+
+        Then we focus on the "points tracker". Implement that into Ren' Py' with example assets. 
+
+        Once these main components are finished we move on to the third step of decoration with proper art assets and text dialogue with an interesting story.
+
+        Gameplay > Story.
+        
