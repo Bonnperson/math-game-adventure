@@ -1,29 +1,23 @@
 # Status Report
 
 #### Your name
-
-TODO
+# Tony Zhang
 
 #### Your section leader's name
-
-TODO
+# Tony Zhang
 
 #### Project title
-
-TODO
+# "Border Math Verification"      (Likely to Change at some point)
 
 ***
 
-Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+Short answers to the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
 
 #### What have you done for your project so far?
-
-TODO
+  # We have made art assets and music assets for the visual novel project so far along with some minor coding in Ren Py for the script.
 
 #### What have you not done for your project yet?
-
-TODO
+  # We have not finished enough for a demo yet and are still working to implement the visual and audio elements into actual working order.
 
 #### What problems, if any, have you encountered?
-
-TODO
+  # The code to detect the visual novel seems to not work. The art assets are zoomed in for some reason. Along with a lot of scripting errors. 
