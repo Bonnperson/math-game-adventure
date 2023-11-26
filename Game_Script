@@ -1,0 +1,51 @@
+# I'm copy and pasting the latest script I have for renpy in here. The actual file is called script.rpy.
+# Note: Most of this is NOT FINISHED AT ALL!! This is just what I have for now!!!
+
+
+label start:
+    pass
+
+label StartingScene01:
+        #Show Background Scene: blackscreen.png
+        scene bg blackscreen with dissolve
+        #Play main menu music: Office Hours (notworking)
+        #play music "audio/bgm_officehours.mp3" loop
+
+scene bg blackscreen:
+    xalign 0.5  # Center the image horizontally
+    yalign 0.5  # Center the image vertically
+    xsize 1280  # Set the width of the image
+    ysize 720   # Set the height of the image
+
+init:
+    $ config.screen_width = 1280
+    $ config.screen_height = 720
+
+style say_text:
+    size 15  # Adjust the size as needed
+    xpos 20 # Adjust the horizontal position
+    ypos 600  # Adjust the vertical position
+    xmaximum 1080  # Adjust the maximum width
+
+
+
+
+label Introduction:
+#Beginning of Game. Minor lore introduction.
+
+        "Our Neighbor Gorgsna is at War with the Temperfest."
+        "You are a veteran from the recent 6 Hour War. You have been reassigned to H.S.S. 14-101."
+        "Long live the Revolution Comrade Inspector."
+
+        show maria smile 
+        Maria "Good Morning Comrade Inspector. You are late."
+        show maria talking 
+        Maria "There has been some new changes because of the war. I will list them quickly for we have much work to do."
+        show maria talking
+        Maria "We no longer accept any sort of Machine. No Ai, andorids, syths, cyborgs, half-humans, no cybernetics."
+        show maria talking
+        Maria "Check for the Silicon levels in their blood-stream using this scanner and needle."
+        show maria talking
+        Maria "To maintain our nations stability be sure to turn as much refugees back as possible. Unless they have the valid paperwork..."
+        show maria talking
+
