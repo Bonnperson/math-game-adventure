@@ -1,7 +1,38 @@
 # This page is just used to write pseudo theory, pseudo code, and testing ideas.
 
 # Group Members: Tony Zhang, Reuben Jose, Subhan Ahmad
+Note: Reuben dropped but will still help us with recording the video.
 
+
+
+
+Plan B for turn-in time on Monday:
+    Thesis: Instead of combining everything like what we set out to do because now we know it's space-time impossible we must:
+        - Create the basic functions of our theoretical game. They also must work to some degree.
+                - Points tracker   --- Done
+                - Score tracker --- Done
+                - Points tracker with score tracker ---- Done
+                - Visual novel demo (that works with all audio and visual novel assets) --- currently not done. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------ Before Final Crunch Period -----------------------------------------------
 
 # Very basic idea of the Final Project:
 #    Make a visual novel game with randomly generated "math" as a gameplay element. Along with Text, Sprites. There will be an "Hp" system and a point tracker that will be the main core of the game loop.
