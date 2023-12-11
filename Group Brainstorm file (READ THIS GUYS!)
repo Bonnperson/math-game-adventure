@@ -22,6 +22,7 @@ To start this project Tony created the various art and music assets for the visu
 The Visual Assets were done in ClipStudio Art and the music was done in Soundtrap.
 Subhan created the math question generator along with the score tracker in python.
 We didn’t have time to implement Subhan’s code into Ren’ Py’ itself as you may imagine, the latter part would be more difficult. But Tony managed to get his assets to work somewhat for a Demo.
+The Gui.Rpy, Screen.Rpy, Options.rpy was modified in specific portions so that the Demo will work. The original code from Ren’ Py’ remains the same. 
 The script to run this Demo along with all the assets are available on Github if you wanna personally play it. While it is a short demo, Tony thinks that the music and art will be appreciated better up close. 
 
 Proceed to Visual Novel Demo
