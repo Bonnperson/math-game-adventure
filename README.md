@@ -5,6 +5,5 @@ Please take a look at the Everything Text File for more information that you're 
 
 
 ✧˖°.✧˖°.✧˖°.✧˖°.✧˖°.FINAL PROJECT DEMO VIDEO RIGHT HERE GOOD SIR!!!!!✧˖°.✧˖°.✧˖°.✧˖°.✧˖°
-
-~~~~~!!!!!!      YouTube link for the Final Project Demo Video: https://youtu.be/YVLusjbWca4   ~~~~~~ !!!!!
+~~~✧˖°.✧˖!!!!!    YouTube link for the Final Project Demo Video: https://youtu.be/YVLusjbWca4  !!!!!!~~~~✧˖°.✧˖°.✧˖°
  
