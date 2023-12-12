@@ -22,9 +22,9 @@ Another difficulty was learning Renpy and getting it to work on my laptop.
 
 Tony's Comments on the Project:
 
-So I just wanted to say that Github or at least the free version freaking sucks. You can't upload files that are more then 25 MB so basically there was trouble sharing files because of that. We didn't realize that until it was too late.
+So I just wanted to say that Github or at least the free version freaking sucks. You can't upload files that are more then 25 MB so basically there was trouble sharing files because of that.
 
-How to overcome: Discord file sharing, if that doesn't work you share it on Google Drive, if that doesn't work you bring the hard drive to your teammates and plug that into their computers the good old fashion way. 
+How to overcome: Discord file sharing, if that doesn't work you share it on Google Drive, if that doesn't work you bring the hard drive to your teammates and plug that into their computers the good old fashion way.
 
 Second, creating assets and everything from scratch is hard to do and to no surprise, the Demo ended up small. Also creating RenPy assets requires a very strict set of file naming and art styles (The classic anime girl cut in half from the torso).
 The desk part of the art asset was not a good idea in hindsight.
@@ -32,18 +32,18 @@ The desk part of the art asset was not a good idea in hindsight.
 How to overcome: Use up your break and suffer. 
 
 Third, the Art assets were made in Clipstudio Art. The music asset was made in Soundtrap. The music asset also was helped along by my musically talented little brother who has more talent then me. 
-The Art style was influenced by the likes of Darkest Dungeon. The Music was influenced by games like OneShot and other RPG maker games. Game idea was inspired by Paper's Please. 
-Also, I feel like Google Drive was a better place to upload coding then Github but most modding from games comes from GitHub anyway so I guess it makes sense, but they probably pay for the service to upload larger files. Google Drive you can upload a hella ton of files.
+The Art style was influenced by the likes of Darkest Dungeon. The Music was influenced by games like OneShot and other RPG maker games. The game idea was inspired by Paper's Please and Doki Doki Literature club.
+*Also, I feel like Google Drive was a better place to upload coding then Github but most modding from games comes from GitHub anyway so I guess it makes sense, but they probably pay for the service to upload larger files. Google Drive you can upload a hella ton of files.*
 
 
 Adversity: Ignorance. Ignorance of everything hindered us for like 99% of this project. 
 - Also the time constraint was insane, especially, with all the other classes crunching down on us last minute. 
 - Grandma kicking down the wifi for some reason.
 
-Lesson learned: If you ever wanna develop a game be sure to conscript as many child slaves into your team so you can get free asset labour from them. Then proceed to upload everything onto Google Drive for safe keeping. Then you use YouTube for tutorials to do all the coding.
+Lesson learned: If you ever wanna develop a game be sure to conscript as many child slaves into your team so you can get free asset labour from them. Then proceed to upload everything onto Google Drive for safekeeping. Then you use YouTube for tutorials to do all the coding.
 This is how all major video games are developed in the triple AAA industries. It's probably why Call of Duty hasn't changed for the last century. 
 
-While we didn't finish anything we intended we made sure that the code worked in the end. I hope you'll enjoy taking a look at our very short demo. 
+While we didn't finish anything we intended at the beginning we made sure that the code worked in the end. I hope you'll enjoy taking a look at our very short demo. :D
 
 
 
@@ -286,4 +286,12 @@ Health potion addition to Score+Question generator code - Cut
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠂⢈⡟⠍⠴⡀⠀⠀⠀⠁⠒⠤⠠⠁⠉⠀⠀⢁⠐⠛⠁⠀⢀⠀⡀⠀⣄⠖⠢⠂⠂⠃⠒⠙⠂⠒⠀⠔⠄⣤⠤⠒⠎⠀⠀⠀⠀⠁⠀⡀⣀⢄⠦⠨⢻⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠙⢣⡐⠢⡀⠀⠀⠉⠁⠀⠁⠀⠉⠐⠀⠀⠀⠉⠀⠀⠀⠂⡴⡤⡠⡀⡀⠀⡀⣀⠀⠀⡀⠀⠀⣀⡀⢀⠲⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠋⠋⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠈⠉⠁⠊⠁⠲⠐⠠⡤⠀⠀⢤⠟⠊⠁⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+easter egg link: https://www.youtube.com/watch?v=XEQoExkyThk&ab_channel=yabe 
